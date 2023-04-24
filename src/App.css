@@ -1,0 +1,148 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.navbar_link{
+  font-size: 18px; 
+  font-weight: 600;
+  border-bottom: 2px solid green;
+}
+
+/* Define the animation */
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Apply the animation to an image */
+.fade-up {
+  animation-name: fade-up;
+  animation-duration: 1s;
+  animation-delay: 0.5s;
+  animation-fill-mode: forwards;
+}
+
+/* Set initial styles for the image */
+.fade-up {
+  opacity: 0;
+  transform: translateY(50px);
+}
+/* Define the animation */
+@keyframes fade-right {
+  from {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Apply the animation to an element */
+.fade-right {
+  animation-name: fade-right;
+  animation-duration: 1s;
+  animation-delay: 0.5s;
+  animation-fill-mode: forwards;
+}
+
+/* Set initial styles for the element */
+.fade-right {
+  opacity: 0;
+  transform: translateX(-50px);
+}
+
+/* Define the animation */
+@keyframes fade-left {
+  from {
+    opacity: 0;
+    transform: translateX(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Apply the animation to an element */
+.fade-left {
+  animation-name: fade-left;
+  animation-duration: 1s;
+  animation-delay: 0.5s;
+  animation-fill-mode: forwards;
+}
+
+/* Set initial styles for the element */
+.fade-left {
+  opacity: 0;
+  transform: translateX(50px);
+}
+
+.text{
+  text-align: start;
+}
+/* Define the animation */
+@keyframes up-and-down {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+/* Apply the animation to an element */
+.up-and-down {
+  animation-name: up-and-down;
+  animation-duration: 3.5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+.bg{
+  background-color: #212121;
+}
+.img-heigt{
+  width: 100%;
+  height: 100%;
+}
