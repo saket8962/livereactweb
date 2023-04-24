@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/livereactweb/static/css/main.48814c8f.css",
+    "main.js": "/livereactweb/static/js/main.e2447ad8.js",
+    "static/js/787.54eebc7a.chunk.js": "/livereactweb/static/js/787.54eebc7a.chunk.js",
+    "static/media/7.webp": "/livereactweb/static/media/7.5f68abaaf1a60c8e3e6b.webp",
+    "static/media/5.webp": "/livereactweb/static/media/5.8dde5cf8745c6b52e36a.webp",
+    "static/media/first.webp": "/livereactweb/static/media/first.77c6a059271700dcbffc.webp",
+    "static/media/4.webp": "/livereactweb/static/media/4.6b51ae6895a6720e00b9.webp",
+    "static/media/6.webp": "/livereactweb/static/media/6.15eed7191f171a3a2f2c.webp",
+    "static/media/2.webp": "/livereactweb/static/media/2.3869e96d8a5315e6d2f8.webp",
+    "static/media/home.webp": "/livereactweb/static/media/home.146b923ffc1558dfbf52.webp",
+    "static/media/1.webp": "/livereactweb/static/media/1.10dd44770b2b1644eb1d.webp",
+    "index.html": "/livereactweb/index.html",
+    "main.48814c8f.css.map": "/livereactweb/static/css/main.48814c8f.css.map",
+    "main.e2447ad8.js.map": "/livereactweb/static/js/main.e2447ad8.js.map",
+    "787.54eebc7a.chunk.js.map": "/livereactweb/static/js/787.54eebc7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48814c8f.css",
+    "static/js/main.e2447ad8.js"
+  ]
+}
